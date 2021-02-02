@@ -1,1 +1,1 @@
-# Tempeture
+# Temperature
